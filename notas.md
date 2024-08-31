@@ -2,7 +2,7 @@
 
 ## Índice
 
-1. -[Introducción a Python](#introducción-a-python)
+1. - [Introducción a Python](#introducción-a-python)
 2. -[Configuración del Entorno](#configuración-del-entorno)
 3. -[Tu Primer Programa](#tu-primer-programa)
 4. -[Variables y Tipos de Datos](#variables-y-tipos-de-datos)
